@@ -1,4 +1,4 @@
-import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700display=swap');
+
 
 *{
     box-sizing: border-box;
@@ -15,14 +15,14 @@ body {
 }
 img{
     width: 500px;
-    heigth: 500px;
+    height: 500px;
     object-fit: cover;
 
 }
 
 .carousel {
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-    height: 530px;
+    height: 600px;
     width: 500px;
     overflow: hidden;
 }
@@ -36,7 +36,24 @@ img{
 .btn-container{
     display: flex;
     justify-content: space-between;
-    
+
+}
+
+.btn{
+    background-color: purple;
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 49.5%;
+}
+
+.btn:hover{
+    outline: none;
+}
+
+.btn:focus{
+    outline: none;
 }
 
 
