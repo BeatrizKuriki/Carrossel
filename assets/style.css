@@ -26,17 +26,21 @@ img{
     height: 400px;
     width: 400px;
     overflow: hidden;
+    z-index: 1;
 }
 .image-container{
     display: flex;
     transform: translateX(0);
    /* transition: transform 0.5s ease-in-out;*/
+ 
 
 }
 
 .btn-container{
     display: flex;
+ 
     justify-content: space-between;
+    z-index: 5;
 
 }
 
@@ -47,6 +51,8 @@ img{
     padding: 0.5rem;
     cursor: pointer;
     width: 100%;
+  
+
 }
 
 .btn:hover{
