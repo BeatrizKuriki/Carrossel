@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: black;
     font-family: 'Roboto', sans-serif;
     display: flex;
     align-items: center;
@@ -22,14 +23,14 @@ img{
 
 .carousel {
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-    height: 600px;
-    width: 500px;
+    height: 400px;
+    width: 400px;
     overflow: hidden;
 }
 .image-container{
     display: flex;
     transform: translateX(0);
-    transition: transform 0.5s ease-in-out;
+   /* transition: transform 0.5s ease-in-out;*/
 
 }
 
@@ -45,7 +46,7 @@ img{
     border: none;
     padding: 0.5rem;
     cursor: pointer;
-    width: 49.5%;
+    width: 100%;
 }
 
 .btn:hover{
