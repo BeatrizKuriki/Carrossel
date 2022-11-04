@@ -25,7 +25,7 @@ img{
 
 .carousel {
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
-   height: calc(400px +1rem);
+  /* height: calc(400px +1rem);*/
     width: 500px;
    overflow:auto;
    
