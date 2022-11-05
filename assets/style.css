@@ -6,6 +6,7 @@
 }
 
 body {
+<<<<<<< HEAD
   background-color: black;  
   font-family: 'Roboto', sans-serif;
   display: flex;
@@ -14,6 +15,23 @@ body {
   height: 100vh;
   margin: 0;
 }
+=======
+   background-color: black;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+
+}
+img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+  
+
+>>>>>>> e5b6d9aabb2a345104238391231c685875c15411
 
 img {
   width: 500px;
@@ -22,6 +40,7 @@ img {
 }
 
 .carousel {
+<<<<<<< HEAD
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   height: 500px;
   width: 500px;
@@ -37,6 +56,38 @@ img {
 .buttons-container {
   display: flex;
   justify-content: space-between;
+=======
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+  /* height: calc(400px +1rem);*/
+    width: 500px;
+   overflow:auto;
+   
+}
+.image-container{
+    display: flex;
+    transform: translateX(0);
+    transition: transform 0.5s ease-in-out;
+   z-index: 1;
+}
+
+.btn-container{
+    display: flex;
+    position: fixed; 
+    justify-content: space-between;
+    z-index: 5;
+
+}
+
+.btn{
+    background-color: rgb(148, 92, 148);
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    cursor: pointer;
+    width: 45.9%;
+  
+
+>>>>>>> e5b6d9aabb2a345104238391231c685875c15411
 }
 
 .btn {
