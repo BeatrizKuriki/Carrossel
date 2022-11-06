@@ -1,38 +1,33 @@
 <h1 align="center"> Carrossel de Imagens</h1>
 
 <h2 align="center">:page_facing_up: Descrição do projeto </h2>
-<p> </p>
+<p> O projeto consiste em um carrossel de imagens que são exibidas sequencialmente quando clicamos no botão próximo ou anterior </p>
 
 <br>
 
 <p>Imagem 1: Desktop</p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/Carrossel/blob/main/assets/img/imageDemo.PNG" width:1000></p>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
-<h4> :white_check_mark: Desktop - Em construção :white_check_mark: </h4>
+<h4> :white_check_mark: Desktop - Finalizado :white_check_mark: </h4>
 
 
 <br>
-<h2 align="center">:hammer: Funcionalidades do projeto </h2>
 
-- ``Funcionalidade 1:``.
 
 <br>
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
-<p>. </p>
-<p>.</p>
-<p>A seguir, mostrarei o código js 
+<p> Neste projeto dei prosseguimento ao aprendizado de funções no JavaScript e utilizei estruturas condicionais. </p>
+
+<p>A seguir, mostrarei o código js:
 <br>
 <br>
 
-<p>Imagem 2: App.js com o código principal pegando apenas o componente Painel</p>
-<p align="center"><img src="" width:1000></p>
+<p>Imagem 2: App.js com o código principal</p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/Carrossel/blob/main/assets/img/JS.PNG" width:1000></p>
 <br>
 
-<p>Imagem 3: Painel.js com o código </p>
-<p align="center"><img src="" width:1000></p>
-<br>
 
 
 <br>
