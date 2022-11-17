@@ -6,7 +6,7 @@
 <br>
 
 <p>Imagem 1: Desktop</p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/Carrossel/blob/main/assets/img/Captura%20de%20tela%20de%202022-11-17%2007-36-45.png" width:1000></p>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
